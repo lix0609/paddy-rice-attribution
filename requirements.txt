@@ -1,0 +1,17 @@
+# Python >= 3.9 recommended. A recent scientific-Python stack works.
+# Install with:  pip install -r requirements.txt
+
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+shap
+statsmodels
+linearmodels
+rasterio
+pymannkendall
+requests
+
+# Optional (only used to export figures as 600-dpi TIFF):
+Pillow
